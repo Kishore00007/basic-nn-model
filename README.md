@@ -6,11 +6,14 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+A neural network with multiple hidden layers and multiple nodes in each hidden layer is known as a deep learning system or a deep neural network. Here the basic neural network model has been created with one input layer, one hidden layer and one output layer.The number of neurons(UNITS) in each layer varies the 1st input layer has 16 units and hidden layer has 8 units and output layer has one unit.
+
+In this basic NN Model, we have used "relu" activation function in input and hidden layer, relu(RECTIFIED LINEAR UNIT) Activation function is a piece-wise linear function that will output the input directly if it is positive and zero if it is negative.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/Kishore00007/basic-nn-model/assets/94233985/719ec9bb-61ef-4aa9-bef2-d1248a017cee)
+
 
 ## DESIGN STEPS
 
